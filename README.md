@@ -1,0 +1,1 @@
+# Proje-Belirtilmemis-Sirket-Python-Seaborn-ile-Veri-Gorsellestirme
